@@ -10,6 +10,7 @@ class TextHandler:
     def __init__(self):
         self.stemmer = PorterStemmer()
 
+        self.vocabulary = set()
         self.stop_words = self.__get_stop_words()
         self.train_data = self.__read_train_data()
 
@@ -21,11 +22,15 @@ class TextHandler:
                 for token in self.__clean(open(path.join(folder_path, directory, file)).read()):
                     if token not in self.stop_words:
                         result[directory][file][token] += 1
+                        self.vocabulary.add(token)
 
         return result
 
     def get_train_data(self):
         return self.train_data
+
+    def get_vocabulary(self):
+        return self.vocabulary
 
     def __get_stop_words(self, file_path='data/stop_words.txt'):
         f = open(file_path, 'r')
