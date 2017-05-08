@@ -1,1 +1,1 @@
-# Text Categorization
+# Text Classifier
