@@ -1,0 +1,35 @@
+SUBSIDIES FOR HEALTHY FOODS ARE A PRICE WORTH PAYING TO TACKLE OBESITY
+
+Cash incentives are the new motivation to lose weight and get fit
+
+The heavy costs of an increasingly obese population are well known. Physical problems associated with a Body Mass Index over 30 include type 2 diabetes, strokes, and certain types of cancer. Psychological issues include depression and low self esteem. But there is also a significant financial price to pay.
+
+Data from 2015 shows that 57 per cent of the population in the UK is overweight. Even more worrisome than this number is the trend behind it. The percentage of overweight people has more than doubled since 1980 and is expected to hit 69 per cent by 2030 according to the WHO.
+
+It is estimated that every overweight patient costs the NHS about £1,800 more over their lifetime compared to a non-overweight person. The portion of the NHS budget spent on caring for overweight and obese people has been calculated to be about 16% a year – around £6 billion.
+
+So what do we do about it? Governments across the world are trying to tackle this epidemic in a variety of ways. Some of these are financially driven, with taxes on unhealthy products such as the “sugar tax” on soft drinks, and subsidies given to healthier meals.
+
+There are also discussions about an alternative type of policy: cash incentives. This means paying people to lose weight. In such a scheme, overweight participants would be assessed and given a weight-loss target timeline matched with a financial incentive if the timed target is met.
+
+If this works the aim is that they would have also developed a habit of healthy eating that will continue once the payments and regular check-ups end.
+
+In our research we developed a mathematical model that accurately mimics how people behave with respect to food consumption, both healthy and unhealthy. It also predicts how people respond to changes in their circumstances and the environment.
+
+We used it to predict the reaction of individuals to three different events: a tax on unhealthy food, a subsidy for healthy foods, and cash incentives in return for eating healthy.
+
+The mathematical model allowed us to predict whether or not, and to what degree, each of these three policies would affect individual behaviour. We wanted to find out whether each of these polices would actually reduce the number of overweight people and, if so, by how much. Importantly, we also wanted to know how much each of these policies would cost.
+
+Mathematical models can be superior to other information gathering methods such as surveys, because they use data from observed behaviour, rather than relying on self-reported – and often wrong – answers.
+
+In our results we found that subsidies (a 10 per cent discount) on healthy foods (fresh fruit and vegetables, fish and lean meats) was the most effective policy, reducing the percentage of overweight people from 57 per cent to about 13 per cent. But at a cost of about £991m. However, when accounting for the saving to the NHS of not having to treat as many overweight related conditions, the net benefit of the policy equated to £6 billion in the long run.
+
+Taxing the rich (foods)
+
+Cash incentives were the second most useful policy, reducing the percentage of overweight people to about 21 per cent. However, this scheme had by far the highest running costs. We estimated that the amount of cash that needed to be given was about £10 per person per day. The net effect of the policy when counting the savings to the NHS was actually negative – it would cost taxpayers about £138m.
+
+Taxes (a 10 per cent tax on all unhealthy food) were the least effective way of reducing the percentage of overweight people – to about 34 per cent of the population. But even though this was the least effective policy, it was the only one which would generate any revenue. The British Government could expect to make around £86m from this idea.
+
+So subsidies outperformed the other two policies in both effectiveness at reducing the number of overweight people, and generating a benefit to the Government.
+
+Subsidies are also relatively straightforward to implement. But they suffer one major modern setback – delayed gratification. Society would pay an expensive price up front, and only benefit later on, when the number of overweight people had been reduced. But any forward looking Government should take a serious look at subsidising healthy foods as a worthwhile investment. It could be the best way of securing a healthier future.

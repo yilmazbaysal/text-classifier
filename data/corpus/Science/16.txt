@@ -1,0 +1,26 @@
+Sea creatures’ sticky ‘mucus houses’ catch ocean carbon really fast
+New deepwater laser tool measures filtering power of giant larvaceans’ snot bubbles
+
+Never underestimate the value of a disposable mucus house.
+
+Filmy, see-through envelopes of mucus, called “houses,” get discarded daily by the largest of the sea creatures that exude them. The old houses, often more than a meter across, sink toward the ocean bottom carrying with them plankton and other biological tidbits snagged in their goo.
+
+Now, scientists have finally caught the biggest of these soft and fragile houses in action, filtering particles out of seawater for the animal to eat. The observations, courtesy of a new deepwater laser-and-camera system, could start to clarify a missing piece of biological roles in sequestering carbon in the deep ocean, researchers say May 3 in Science Advances.
+
+The houses come from sea animals called larvaceans, not exactly a household name. Their bodies are diaphanous commas afloat in the oceans: a blob of a head attached to a long tail that swishes water through its house. From millimeter-scale dots in surface waters to relative giants in the depths, larvaceans have jellyfish-translucent bodies but a cordlike structure (called a notochord) reminiscent of very ancient ancestors of vertebrates. “They’re more closely related to us than to jellyfish,” says bioengineer Kakani Katija of the Monterey Bay Aquarium Research Institute in Moss Landing, Calif.
+
+The giants among larvaceans, with bodies in the size range of candy bars, don’t form their larger, enveloping houses when brought into the lab. So Katija and colleagues took a standard engineering strategy of tracking particle movement to measure flow rates in fluids and reengineered equipment to watch giant houses at work deep in the ocean.
+
+Getting the hardware right was challenging, and so was deploying it remotely from a research ship at the surface of the Monterey Bay. “This is a 1-millimeter-thick laser sheet bisecting an animal that’s about 2 centimeters wide that is 400 meters below the surface vessel,” Katija says.
+
+The rig managed to capture measurements of water flow through houses of larvaceans belonging to two Bathochordaeus species. The top rate for B. mcnutti, more than 20 milliliters per second, broke the record (previously held by salps) for fastest recorded filtration rates from a zooplankton. If the whole springtime population of giant larvaceans in Monterey Bay pumped water that fast, they would clean all the particles out of their home depth in about 13 days.
+
+Larvacean feeding rates matter because the sea creatures send organic matter, including carbon, to the deep ocean in two ways, explains biological oceanographer Stephanie Wilson of Bangor University in Wales. Larvaceans discard houses that become clogged with particles pumped in. (Small species can secrete a replacement in minutes though giants take longer. “Imagine that you have a head full of snot, and you sneeze your house,” Wilson says.)
+
+Larvaceans also send carbon to the seafloor in football-shaped excrement. That’s an American football, Wilson clarifies. The tiny plankton that larvaceans near the surface eat wouldn’t sink far on their own, but once an animal ingests them and excretes a dense pellet, the carbon in the meal sinks better.
+
+
+If carbon-containing fallout from the upper ocean falls fast enough, it bypasses diversions by other creatures and reaches depths where nothing much happens to it for a long time, says Sari Giering of the National Oceanography Centre in Southampton, England, where she studies oceanic carbon. “The faster a particle sinks, the more likely its carbon will be stored in the ocean for centuries,” she says.
+
+Giering enthusiastically welcomes the new laser-and-camera system. She points out that researchers thought giant larvaceans could be important in sequestering carbon. But the fragile houseshave been hard to study in action until now.
+

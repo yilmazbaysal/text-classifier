@@ -1,0 +1,39 @@
+Microsoft is fixing those confusing Windows 10 privacy messages
+
+The software giant acknowledges the privacy settings on Windows 10 are annoying and don't make sense. So it's simplifying things.
+
+Microsoft wants to make Windows easier to understand.
+
+Two years after it released Windows 10, a major installment in its PC software, the software giant is rolling out an update that includes, among other things, revamped privacy settings. The update, which users can download for free, will be available from April 11.
+
+Microsoft is pushing to simplify its Creators Update after earlier versions got slammed for being stuffed with incomprehensible jargon and gibberish.
+
+Want an example?
+
+Previously, Windows 10's settings would offer you this option: "Let apps use my advertising ID for experiences across apps (turning this off will reset your ID)."
+
+Now it will say: "Relevant Ads: Let apps use advertising ID to make ads more interesting to you based on your app usage." And if you turn it off, it will say, "The number of ads you see won't change but they may be less relevant to you."
+
+It's not Shakespeare, but it's easier to understand.
+
+"We're trying to be much more transparent," said Marisa Rogers, privacy officer for Microsoft's Windows and Devices Group, in an interview.
+
+Many of the changes will simplify the language in the software. And in the case of diagnostic data being sent to Microsoft, Rogers said, the company's cut the amount of information it's gathering by half.
+
+"It's strictly the information that Microsoft needs to keep the device secure and up-to-date," she added.
+
+Seeking clarity on privacy
+
+Microsoft isn't making the changes because it's suddenly learned the value of clearer writing. The company has been fending off criticism about its privacy practices since releasing Windows 10 in July 2015.
+
+The diagnostic data it's gathering has been a real sore spot. It's normal for companies to collect information about their hardware and software, usually as part of checking for bugs and guarding against security problems. Microsoft's practices, however, raised concerns because the software maker wasn't clear about how much data it was gathering, how it kept that information safe and how long it was held onto.
+
+European regulators and the Electronic Frontier Foundation in particular have been publicly pressuring the company about this for the past year.
+
+"While Microsoft insists that it aggregates and anonymizes this data, it hasn't explained just how it does so," the EFF wrote last August. "Microsoft also won't say how long this data is retained, instead providing only general timeframes."
+
+Microsoft says in its documentation that all the data it collects is anonymized. But critics point out there hasn't really been a way to opt out.
+
+The current political climate makes it difficult for companies to ignore complaints. Over the past year, governments have pressured companies to help them crack into devices, give up access to private user data and even spy outright. And that's what we know about.
+
+As a result, "there's significantly more awareness around privacy," said Bob O'Donnell, president of Technalysis Research. And that's not likely to die down anytime soon.

@@ -1,0 +1,37 @@
+BP Stock Upgraded: What You Need to Know
+
+Every day, Wall Street analysts upgrade some stocks, downgrade others, and "initiate coverage" on a few more. But do these analysts even know what they're talking about? Today, we're taking one high-profile Wall Street pick and putting it under the microscope...
+
+Cash. You may not have noticed this yet, but it's suddenly all the rage on Wall Street.
+
+On Monday, The Wall Street Journal (link has pay wall) published a long column detailing the efforts of major oil companies including ExxonMobil (NYSE:XOM), Royal Dutch Shell (NYSE:RDS-A) (NYSE:RDS-B), and BP plc (NYSE:BP) -- not to earn GAAP profits (all three are technically profitable) -- but to generate enough cash to justify their existence. Deducting "dividends and capital expenditures from ... cash from operations," not one of these oil majors, warned the Journal, was able to "make enough money in 2016 to cover their costs."
+
+Instead, each company "fell short of cash flow for the year" and "ended last year with more debt than they began it." But according to analysts at Deutsche Bank, at least one of these oil majors may be close to the Journal's goal of at least "breaking even." Here are three things you need to know about that.
+
+1. What Deutsche Bank said
+This morning, StreetInsider.com reports that Deutsche Bank has upgraded British oil major BP plc from hold to buy, and doubled down on its insistence the stock is worth "505p."
+
+Now, figuring out what that means to U.S. investors is a bit tricky, but I'll take you through it step by step. First off, "p" refers to British pence, of which there are 100 in a pound. So "505p" means Deutsche is assigning a price target of 5.05 British pounds ($6.28 at current exchange rates) to each share of BP common stock.
+
+"But wait!" you say. "Doesn't BP stock cost $34.65 today?" Well, sort of. The "BP stock" that you buy on the NYSE as an American investor is actually an American depositary receipt," or ADR, that bundles up six shares of British common stock into one ADR that you can buy. Thus, when Deutsche Bank assigns a "505p" valuation to one common share of BP plc, it's saying that the BP ADRs you buy here in the U.S. are worth $37.68.
+
+That's what the new upgrade, and price target, mean to you.
+
+2. Why Deutsche Bank said it
+Deutsche Bank believes that BP stock is worth this much because new projects it is starting up in Egypt, Oman, Trinidad & Tobago, and the U.K. will increase the volume of oil it can produce, and the cash that will flow from that production. As explained by TheFly.com, BP thinks that this will "bolster confidence that BP's dividend is ... sustainable," and that investor returns "will be augmented by buybacks in late 2018." At the same time, StreetInsider.com reports, "Macondo cash outflows are ... moderating."
+
+Thus more cash flow from new projects, and less negative cash flow from Macondo (the oil field that blew up on BP in 2010 in the infamous Deepwater Horizon disaster) will add up to more net cash flow for BP -- and more ability for the company to cover its costs and maintain its beefy 7% dividend yield.
+
+3. The elephant in the room
+All of which makes sense, but still doesn't address the elephant in the room: Oil prices.
+
+As The Wall Street Journal explained in its analysis yesterday, both ExxonMobil and Royal Dutch Shell are lean, profit-making machines capable of generating positive free cash flow (again, that's operating cash flow minus capital expenditures and dividends) so long as oil prices remain at $50 a barrel or better. Currently, Brent crude is selling for more than $54 a barrel, while WTI crude costs more than $51 -- so that's good news for Exxon and Shell. But what about BP?
+
+Sadly, BP says that it needs oil prices to hit at least $60 a barrel in order to cover both its capital costs and its dividend payments. So while Deutsche Bank believes that supra-$50 oil prices "notably" improve the company's chances of breaking even, BP itself doesn't appear so certain that it can cover its costs -- unless oil gets even more expensive.
+
+What it all means for investors
+So what happens if oil does not bounce back above $60 a barrel? Well, check out the below chart.
+
+Last year oil prices only broke above $50 (and never hit $60) in the final weeks of the year. Not counting dividends, that resulted in negative free cash flow of $6 billion for BP. Counting dividends, free cash outflows were a massive $10.6 billion.
+
+That's a big hole BP must drill itself out of. Even if Deutsche Bank is right about BP being able to increase production from its new oil fields, pumping more oil, at sub-$60 prices, may not be enough to make up the difference. What this company really needs is for oil prices to rise. Until that happens, I cannot agree with Deutsche Bank that BP stock is a buy.

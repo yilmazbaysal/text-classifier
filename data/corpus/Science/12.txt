@@ -1,0 +1,22 @@
+Mars may not have been born alongside the other rocky planets
+New origin story could explain mystery of Red Planet’s makeup
+
+Mars may have had a far-out birthplace.
+
+Simulating the assembly of the solar system around 4.56 billion years ago, researchers propose that the Red Planet didn’t form in the inner solar system alongside the other terrestrial planets as previously thought. Mars instead may have formed around where the asteroid belt is now and migrated inward to its present-day orbit, the scientists report in the June 15 Earth and Planetary Science Letters. The proposal better explains why Mars has such a different chemical composition than Earth, says Stephen Mojzsis, a study coauthor and geologist at the University of Colorado Boulder.
+
+The new work is an intuitive next step in a years-long rethink of the early solar system, says Kevin Walsh, a planetary scientist at the Southwest Research Institute in Boulder, Colo., who was not involved with the new simulation. “We only became comfortable within the last 10 years with the idea that planets move around, possibly a lot,” he says. “Planets may not have formed where we see them today.”
+
+Mars, like Mercury, is a runt of the inner solar system, weighing in at only about a ninth of Earth’s mass. One of the reigning theories of planetary formation, the Grand Tack model, blames Jupiter for the Red Planet’s paltry size. In that scenario, the newly formed Jupiter migrated toward the sun until it reached Mars’ present-day orbit. A gravitational tug from Saturn then reversed Jupiter’s course, sending the gas giant back to the outer solar system (SN: 4/2/16, p. 7).
+
+Gravitational effects of Jupiter’s sunward jaunt acted like a snowplow, scientists believe, causing a pileup of material near where Earth’s orbit is today. The bulk of that material formed Venus and Earth, and the scraps created Mercury and Mars. This explanation predicts that all the terrestrial planets formed largely from the same batch of ingredients (SN: 4/15/17, p. 18). But studies of Martian meteorites suggest that the Red Planet contains a different mix of various elements and isotopes, such as oxygen-17 and oxygen-18, compared with Earth.
+
+Planetary scientist Ramon Brasser of the Tokyo Institute of Technology, Mojzsis and colleagues reran the Grand Tack simulations, keeping an eye on the materials that went into Mars’ creation to see if they could explain the different mix.
+
+As with previous studies, the researchers found that the most probable way of creating a solar system with the same planet sizes and positions as seen today is to have Mars form within Earth’s orbit and migrate outward. However, this explanation failed to explain Mars’ strikingly different composition.
+
+Another possible scenario, though seen in only about 2 percent of the team’s new simulations, is that Mars formed more than twice as far from the sun as its present-day orbit in the region currently inhabited by the asteroid belt. Then as Jupiter moved sunward, its gravitational pull yanked Mars into the inner solar system. Jupiter’s gravity also diverted planet-making material away from Mars, resulting in the planet’s relatively small mass. With Mars forming so far from the planetary feeding frenzy responsible for the other rocky planets, its composition would be distinct. While this scenario isn’t as likely as Mars forming in the inner solar system, it at least matches the reality of Mars’ makeup, Mojzsis says.
+
+Such a distant origin means that the fledgling Mars would have received far less sunlight than originally thought, a challenge to early Mars’ possible habitability. Without a sustained thick atmosphere of heat-trapping greenhouse gases, the planet would have been too cold to sustain liquid water on its surface for long periods of time, Mojzsis argues. Though large meteorite impacts could have temporarily warmed Mars above freezing, the planet wouldn’t have had a consistently warm and wet youth similar to that of the early Earth, he says.
+
+Confirming whether Mars really was born that far out in space will require taking a closer look at Venus’ mix of elements and isotopes, which the researchers predict would be similar to Earth’s. Venus’ composition is largely unknown because of a lack of Venusian meteorites found on Earth, and that mystery won’t be unlocked anytime soon: No missions to Venus are planned.

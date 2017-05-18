@@ -1,0 +1,22 @@
+Simulations of DIII-D experiments shed light on mysterious plasma flows
+
+Researchers at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) and General Atomics have simulated a mysterious self-organized flow of the superhot plasma that fuels fusion reactions. The findings show that pumping more heat into the core of the plasma can drive instabilities that create plasma rotation inside the doughnut-shaped tokamak that houses the hot charged gas. This rotation may be used to improve the stability and performance of fusion devices.
+
+The results, reported in January in the journal Physical Review Letters, use first principles-based plasma turbulence simulations of experiments performed on the DIII-D National Fusion Facility that General Atomics operates for the DOE in San Diego. The findings could lead to improved control of fusion reactions in ITER, the international experiment under construction in France to demonstrate the feasibility of fusion power. Support for this research comes from the DOE Office of Science with simulations performed at the National Energy Research Scientific Computing Center (NERSC), a DOE Office of Science User Facility at Lawrence Berkeley National Laboratory.
+
+High energy beams
+
+To enhance stability and confinement of the plasma, a gas composed of electrons and ions that is often called the fourth state of matter, physicists have traditionally injected high energy beams of neutral atoms. These energetic beams cause the core and outer region of the plasma to spin at different rates, creating a sheared flow, or rotation, that improves stability and confinement. One persistent mystery is how the plasma sometimes generates its own sheared flow, spontaneously.
+
+The new research, led by PPPL physicists Brian Grierson and Weixing Wang, shows that sufficient heating of the core of the plasma generates a special type of turbulence that produces an intrinsic torque, or twisting force, that causes the plasma to generate its own sheared flow. The findings have relevance to large, future reactors, since neutral beam injection will create only limited rotation in the huge plasmas inside such facilities.
+
+Self-organizing plasmas
+
+The collaborative research by PPPL and General Atomics scientists found that plasmas can organize themselves to produce sheared rotation when heat is added in the right way. The process works like this:
+
+Heating the core of the plasma produces turbulence that fluctuates in strength along the radius of the gas.
+The fluctuations generate a "residual stress" that acts like a torque that causes the inner and outer parts of the plasma to rotate opposite to each other at different speeds.
+The different rotation speeds represent a balance between the turbulence-produced torque and the viscosity of the plasma, which keeps the gas from spinning arbitrarily fast.
+Researchers used the GTS code to simulate the physics of turbulent plasma transport by modeling the behavior of plasma particles as they cycled around magnetic fields. The simulation predicted the rotation profile by modeling the intrinsic torque of the turbulence and the diffusion of its momentum. The predicted rotation agreed quite well, in shape and magnitude, with the rotation observed in DIII-D experiments.
+
+A key next challenge will be to extrapolate the processes for ITER. Such modeling will require massive simulations that will push the limits of the high-performance supercomputers currently available. "With careful experiments and detailed simulations of fundamental physics, we are beginning to understand how the plasma creates its own sheared rotation," said Grierson. "This is a key step along the road to optimizing the plasma flow to make fusion plasmas more stable, and operate with high efficiency."

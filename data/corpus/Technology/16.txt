@@ -1,0 +1,35 @@
+Here's how to protect your phone from hackers
+
+Kelly Rohrbach is the latest celebrity caught up in a hacking scandal, her private photos reportedly released on the heels of her upcoming film, "Baywatch." Though the actress’ rep called the leak a “hoax,” it highlights how sophisticated hackers have become -- and how everyone's private data can be compromised. 
+
+“These smartphones are the connection to life these days, and these phones give up a lot of information on you," Bruce Anderson, a director at Cyber Investigations & Intelligence told Fox News in a phone interview. "Your life is on your phone -your contacts, your family photos and your credit card information.”
+
+And hackers know it. 
+
+COULD THE IPHONE BE BANNED IN THE U.S.?
+
+From the amateur trying to steal a bank account pin to the expert looking to steal vulnerable personal information in attempt to extort their victim, everyone is at risk.
+
+“Your phone can be hacked in different ways – from malware that asks you to click on a link you shouldn’t, to having weak passwords or not following basic security measures such as updating your apps and operating system," explained Michael Kaiser, the executive director of the National Cyber Security Alliance.
+
+Kaiser added that users should protect their phones, keeping everything up to date, including the phone's operating system and making sure the device is secure. "Make sure your phone and your apps have good password protection and multi-factor authentication," Kaiser noted. "Keep an eye out for anything that looks unusual.”
+
+It's easy to spot when a phone has been hacked, which is why people should pay close attention to their device, said David Katz, former DEA special agent and CEO of Global Security Group.
+
+“A spyware program running in the background will drain power," Katz noted, while adding the phone may be hotter because the spyware is running continuously in the background. "Friends report getting strange texts from your phone or you receive some. You learn that emails you send to known individuals are suddenly being blocked by spam filters when previously they were not.”
+
+But there are simple ways to make a phone hack-proof, said Chris Jones, Co-Founder of RISKGEN, a cybersecurity company. 
+
+HERE'S HOW EASY IT IS TO HACK A KEYLESS CAR
+
+"Don't connect to unknown wireless networks, like a free one in the airport or coffee shop. Don't download unknown or untrusted applications. Watch for what permissions an application wants on the device. Use a pin code and always lock the phone to prevent physical tampering,” Jones said.
+
+Making passwords more complicated is another step users can do to make their phones harder to penetrate. 
+
+“As far as low hanging fruit goes, having passwords with a high degree of entropy is up there," said Bryan Larkin, founder of Faction, a cyber bodyguard firm for celebrities and other high-value targets. "Password length is much more important than how many weird characters are in it, and never reusing passwords or variations of passwords is also important." 
+
+Jones recommended that if a phone has been hacked, it should be turned off and a security professional should be contacted. If one is unavailable, the phone can be reset to its facory default settings, "knowing you have a good backup.” If personal information has been breached, Kaiser encouraged users to contact IdentityTheft.gov for help. 
+
+Ultimately, knowledge is power when it comes to keeping a phone safe.
+
+“I firmly believe that hackers are the immune system of the internet," explained Larkin. "Whether they are good or bad, the more educated the common man or woman is about computer security, the more the security community is required to elevate and advance its tactics and tools."

@@ -1,0 +1,75 @@
+Retiring with robots? How your folks will get high-tech help
+
+Researchers are working on robots that can monitor and care for the elderly. But it's not about pawning off your grandfather to an android.
+
+This is part of CNET's "Tech Enabled" series about the role technology plays in helping the disability community.
+
+When you think about growing old together with somebody, that somebody probably isn't made of circuitry or running on a processor.
+
+That certainly wasn't the thinking of Les Middlewood. The 63-year-old from the UK took part in user tests with care robots from the University of Hertfordshire. To him, a robot makes a poor companion because it lacks the "many nuances" of true friendship.
+
+But after seeing bots complete tasks in a domestic setting -- closing the fridge, answering the door -- he warmed up to the possibility.
+
+Middlewood isn't alone. Robots already vacuum our floors, entertain our kids and mow our lawns. Why not take care of our aging parents? A robot can provide the kind of 24/7 attention and assistance that even a costly full-time caregiver would struggle to offer. They can also grant more independence to senior citizens, letting them stay in their house rather than get shipped off to a retirement home or care facility.
+
+Robots offer an answer to how we take care of so many older folks, a dilemma that the World Health Organization calls "a situation without precedent." This isn't about palming off elderly relatives on faceless droids -- it's nothing that dystopian -- but about filling the gaps when people stop being able to do certain things for themselves.
+
+That's a key point. It's important not to pretend that care robots are also designed to be "social" and sold as an alternative to human relationships, said Kathleen Richardson, senior research fellow in the Ethics of Robotics at De Montfort University.
+
+"If a robot can help a person with disabilities with mobility, or some other activity, great," Richardson said over email. "If a person with disabilities is told a robot can be their 'friend' or 'companion,' then I think this is blatant lying."
+
+Mind your manners
+
+Even if robots can't be sociable like you or me, ensuring they're able to react sensitively to humans is crucial if they're going to be in our homes. Key to this are good, old-fashioned manners -- something Kerstin Dautenhahn, professor of AI at the University of Hertfordshire, is attempting to teach the care robots she works with.
+
+Care robots can be programmed to prompt people to follow certain prescribed guidelines like drinking water, taking medicines or eating three meals a day. But creating robots that behave in a "socially acceptable" way when they start prodding their owners is a delicate process.
+
+"No one wants a robot that bosses you around in your own home," Dautenhahn said in an interview.
+
+It's not just being polite. A bossy robot that talks down to people could make them feel like they're not in control of their own lives.
+
+"We do not want the robot to do things for the person," she said. "We want the robot and the person to do things together, which puts the person on an equal footing with the robot."
+
+For example, rather than pointing out to their owner that they must drink something, the robot might instead suggest that they go together to the kitchen to make a cup of tea.
+
+How the robot approaches physically is also very important in determining how people react to it, Dautenhahn said. Her team discovered that when people sit on the sofa they don't like to be approached directly from the front, instead they prefer the robot to approach from the side, like a waiter would in a restaurant.
+
+Getting these small details right is key to making sure people aren't irritated. "There's nothing worse than an electronic helper system that provides help at the wrong time and in the wrong way," she said.
+
+Remember Clippy, Microsoft's unfailingly cheery and much-maligned Windows assistant? No one wants Clippy on wheels.
+
+Smart robots for smart homes
+
+In order to measure people's reactions to domestic robots, the University of Hertfordshire conducts user tests in a fully kitted out smart home. This means the researchers can look beyond the engineering and artificial intelligence challenges and identify the context-specific problems of actually having a machine in your home, Dautenhahn said.
+
+As smart homes filled with connected devices become increasingly popular, it's also necessary to think about how robots will communicate with other sensors and devices around the home.
+
+UK-based startup Consequential Robotics, a collaboration between the University of Sheffield and Sebastian Conran's design studio, is working on a concept called the "care-free home," at the center of which sits a cute ankle-high robot called MiRo.
+
+MiRo might look like a pet but it also boasts some serious skills thanks to cameras capable of facial recognition and to microphones and speakers that allow it to respond to voice commands. It can steer itself and knows when to go for a recharge.
+
+The robot works in conjunction with a wristband that measures vital signs and contains a fall sensor, an "intellitable" -- a sort of self-driving countertop that can rise up and down -- and ceiling-mounted sensors that measure a range of environmental factors.
+
+Together these items form a system that constantly monitors the person. If the wristband and ceiling-based sensor detect a potential fall, MiRo can investigate and find out if the person has fallen and is unconscious.
+
+No eyes? No matter
+
+There's no question when observing MiRo -- which was designed to look like a cross between a rabbit, a dog and a cow, and even protests just like a real pet if you stroke it the wrong way -- that it has been crafted to delight. But not all care robots are designed to do so.
+
+Having a relatable look and feel might be important when the robot is providing cognitive assistance and relies on two-way communication. But as the task become more about practical assistance, equipping a bot with eyes and mouth becomes less of a priority.
+
+Rich Walker from Shadow Robotics is one of a team of engineers working on a UK-government funded initiative called the Chiron Project, which is developing a set of modular robotic systems designed for home care. The exact look of the Chiron robot is still shrouded in secrecy, but according to Walker, it's "not at all humanoid."
+
+"The goal we set for ourselves was to identify where we could intervene in the aging process to have maximum benefit," said Walker. Initially, the plan for Chiron was to build something to support active living and help people age well. But through the team's research it became apparent that the real issue for elderly people still living at home was moving into, out of and around the bed. That's what Chiron is now focusing on.
+
+In contrast, Walker is also working on another robotics project called Ramcip, which is funded by the EU with the hope of building assistive home robots for people with mild cognitive impairments and dementia. With a torso, an arm and a camera-equipped head, this is much closer to being a humanoid robot.
+
+"It's not actually humanoid, but since it's got to reach up onto a shelf, and it's got to reach down to the floor, and it's got to open the door, it ends up with a lot of the constraints of the human form about it," said Walker. It also has to do a lot of prompting, reminding and suggesting. "We want something that actually people can maybe get to know," Walker said.
+
+Welcome to the family? Not yet
+
+Robots aren't for everyone. An EU survey on attitudes toward robots in 2012 lumped together care robots for children, elderly and disabled people, as if they were all the same thing. Sixty percent of respondents said they should be banned outright. In a similar EU survey published last year, 51 percent of respondents said they would feel "uncomfortable" about "a robot provide services and companionship to elderly or infirm people."
+
+Public perceptions about care robots may remain mixed, but it helps to show people what the specific benefits are, Dautenhahn said. "Once you explain people what these systems are and give them examples of what they can do, then people are then usually quite positive," she said.
+
+Just take Middlewood. "From a personal point of view there was that initial sort of awakening thinking for the first time, yeah, I now see how that could work," he said. "The whole development could be a real boon to certain groups of people."

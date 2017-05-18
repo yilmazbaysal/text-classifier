@@ -1,0 +1,18 @@
+Social network Mastodon takes on Twitter, promising more characters, privacy and control
+
+A FRESH Twitter challenger has emerged and is already proving too popular for its own good, forced to shut down new sign-ups as Twitter refugees flee changes to their network and flood the new rival.
+Mastodon promises Twitter users they will be able to “toot” more characters on the new social network, see less abuse and harassment, send messages with greater privacy, and do so without getting distracted by advertising.
+And sign-ups to the social media challenger have soared after Twitter changed the way users reply to one another late last week.
+
+Mastodon Social is the creation of 24-year-old Eugen Rochko, from Germany, who says he became annoyed with Twitter when it introduced a Facebook-like algorithm to show messages out of chronological order.
+The rival social network is instead an open-source, decentralised take on Twitter that calls itself an “alternative to commercial platforms”.
+READ MORE: What if Trump’s Twitter account got hacked?
+But Mastodon offers more than just a no-advertising policy. It also addresses major Twitter gripes, including showing messages in chronological order, allowing 500 characters per post, letting users share posts privately, and banning racist and sexist chatter.
+Mastodon first emerged in October last year and attracted about 24,000 users in its first six months.
+
+But user numbers spiked more than 70 per cent in just two days after the latest Twitter backlash, seeing users of its main channel reach 41,703.
+The “exceptionally high traffic” forced the network to shut down new registrations “until quality of service can be assured for existing users”.
+But only the “flagship” channel has been affected and other servers, known as “instances,” are still open for business.
+“(Mastodon Social is) not supposed to be the only instance in the end,” Rochko said.
+Thousands of Twitter users looked into alternatives after the social network changed the way users reply to tweets late last week.
+Usernames are no longer included in replies, which can make it easier for users to spam large groups of people, known as Twitter canoes, and make it more difficult to publicly reply to tweets.

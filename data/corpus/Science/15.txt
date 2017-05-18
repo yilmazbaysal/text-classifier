@@ -1,0 +1,52 @@
+In Florida, they’re fighting mosquitoes by meddling with their sex lives
+Florida Keys skeeter police testing one of two opposing strategies for using bacteria to squelch Zika-spreading mosquitoes
+
+Near Key West, Fla., mosquito-control officers are trying something new. They’re releasing more mosquitoes.
+
+In a 12-week test running through early July, 40,000 male mosquitoes are being released each week with the eventual goal of preventing the spread of mosquito-borne diseases such as Zika and dengue.
+
+Instead of trying to kill the mosquitoes directly, a losing battle in Florida, a Kentucky company called MosquitoMate has infected Aedes aegypti mosquitoes with a strain of Wolbachia bacteria that makes the males disastrous dads. When these males mate with uninfected wild females, their offspring die before hatching.
+
+The Florida trial is the latest in worldwide tests of two conceptually opposite approaches to using Wolbachia-infected mosquitoes as disease control officers. The better-known tack is to render mosquitoes less able to carry disease but leave them free to do what mosquitoes do. The approach now being tried in Florida would instead try to stomp down their numbers.
+
+The first salvo in this new battle began on the afternoon of April 18, when staff of the Florida Keys Mosquito Control District worked their way along some streets on Stock Island. At 20 predetermined spots, workers opened fat cardboard tubes packed with male mosquitoes shipped overnight in a cooler from Kentucky — 20,000 mosquitoes in all. Blowing gently at one end of the tubes encouraged males to lift into the air and whine off in search of the island’s wild females.
+
+Wolbachia bacteria make these males biologically incompatible with uninfected females. Over time, flooding a neighborhood with bad dads should shrink the local population of Ae. aegypti mosquitoes.
+
+That species “is very difficult to control,” says Andrea Leal, executive director of the control district. Ae. aegypti is the domestic cockroach of mosquitoes, sticking inside, under or near human homes, where heavy pesticide use is restricted. Larvae can grow in mere bottle-capfuls of rainwater, so saucers under potted plants or puddles in a crumpled tarp can become a public health menace.
+
+Arming mosquitoes
+Ae. aegypti can spread yellow fever and chikungunya viruses, as well as Zika, which broke out in Miami last year. The mosquito can also carry dengue, a painful disease better known in tropical countries that has made appearances in Key West over the past decade, including one case in 2016.
+
+Infecting mosquitoes with certain strains of Wolbachia bacteria can sabotage the spread of such viruses, though biologists are still exploring how. One proposed scenario: Wolbachia compete with viruses for precious resources inside cells, such as cholesterol.
+
+Forms of Wolbachia are found naturally in various ants, butterflies and many other arthropods. But no form of the bacteria had taken to Ae. aegypti, so researchers have gone to years of trouble working out how to coax bacterial strains from other insect species into the troublesome mosquito.
+
+Scientists were able to infect mosquitoes with the bacteria without genetically modifying either species, a plus because a recent proposal to release genetically modified mosquitoes as pest control in nearby Key Haven stirred fierce protests (SN Online: 8/5/16).
+
+The bacterial infection technique that finally worked was simple in concept, though not so simple to execute, says entomologist Stephen Dobson at the University of Kentucky in Lexington. Researchers just used a vanishingly slender glass needle to poke the bacteria into mosquito eggs.
+
+That method developed the lineages of mosquitos now being released twice a week on Stock Island. One advantage of the test’s population-crashing approach, says Dobson, also MosquitoMate’s CEO, is that workers puffing a thousand insects out of a shipping tube near someone’s yard are releasing only males, which don’t bite. “People might accept that more,” Dobson says. To replace the mosquito population with a safer one — the better-known strategy — requires releasing females, too, which Dobson points out, “bite people and drink their blood.”
+
+That vampire route has advantages, though, argues Scott O’Neill of Monash University in Melbourne, Australia. He leads an international nonprofit collaboration called Eliminate Dengue (SN: 7/14/12, p. 22), which works in developing countries with vast areas at risk of disease but minuscule budgets. Instead of suppressing mosquitoes and risking a comeback, he chose an approach that relies on the bacteria to spread and maintain themselves.                                         
+
+The bacterial infection can sweep into a population extraordinarily fast. But for it to do so, he says, his group has to release females, too. Wolbachia-carrying males have no problem siring bouncing baby mosquitoes if the mom also carries the bacterium, and the young then carry the bacteria, too.
+
+With mosquitoes doing the work, “we can sort of march across the landscape,” O’Neill says. One of the project’s first release sites, in Australia, still hums with Wolbachia-carriers six years later with no need for additional treatment.  “We have a very lousy business model,” he says, not sounding very sorry.
+
+Eliminate Dengue is marching over swaths of five countries, including Brazil. In the city of Rio de Janeiro, the project is treating about 150 square kilometers over the course of two years and aims to protect 2.5 million city-dwellers for years to come.
+
+Plan B
+The biggest roadblock to bacteria-based mosquito control hasn’t appeared yet, and researchers don’t know if it will. If viruses such as Zika or dengue evolve a way to thrive in Wolbachia-infected cells, the benefit could dwindle away.
+
+O’Neill hasn’t seen signs of resistance yet, but he has a plan if he does: The project could release mosquitoes with a new combination of Wolbachia strains to spread through a population and replace ones that are losing effectiveness. The Eliminate Dengue team has already developed mosquitoes infected with just such a combination of bacterial strains, he says.
+
+This possibility of developing resistance, much as some pests develop resistance to pesticides or antibiotics, is reduced with the MosquitoMate approach, Dobson says. The suppression approach shouldn’t leave survivors in which viral evolution could take place.
+
+For now, Florida will be a high-profile test for the approach — but it won’t be the first. MosquitoMate has tested two other species of bacteria-carrying mosquito: Ae. polynesiensis on Pacific Islands to combat lymphatic filariasis and its elephantine swellings, plus the aggressively biting tiger mosquito, Ae. albopictus, which can render U.S. backyards uninhabitable as well as spread viruses.
+
+The company has applied to the Environmental Protection Agency for approval to sell booby-trapped tiger mosquitoes as a biopesticide in the United States. The third of MosquitoMate’s saboteur insects, Ae. aegypti, was first deployed last year in Clovis, Calif.
+
+After the California test, the group made some tweaks in hopes of creating at least a 7-to-1 ratio of bacteria-carrying Kentucky males to native Floridian rivals. That’s the initial result that Leal, of the mosquito control district, is focusing on for this year.
+
+Keys’ residents would love to see a big drop in the mosquito’s numbers, too, but Leal says that’s the next stage. For now, getting enough of the dud dads out there mating with female mosquitoes will be a big accomplishment.

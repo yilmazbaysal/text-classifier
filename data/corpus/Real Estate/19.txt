@@ -1,0 +1,15 @@
+Mortgage Delinquency Rates Hit Lowest Level Since The Financial Crisis
+
+Just 5 percent of U.S. homeowners were behind on their mortgage payments by 30 days or more (including those in foreclosure) in February, according to an analysis by data company Corelogic. It's the lowest delinquency rate since September 2007, the company says. This represents a 0.5 percentage point decline in the overall delinquency rate compared with February 2016 when it was 5.5 percent.
+
+As of February 2017, the foreclosure inventory rate, which measures the share of mortgages in some stage of the foreclosure process, was 0.8 percent compared with 1.1 percent in February 2016. The serious delinquency rate, defined as 90 days or more past due including loans in foreclosure, was 2.2 percent in February 2017, down from 2.8 percent in February 2016.
+
+Measuring early-stage delinquency rates is important for analyzing the health of the mortgage market. To more comprehensively monitor mortgage performance, CoreLogic examines all stages of delinquency as well as transition rates that indicate the percent of mortgages moving from one stage of delinquency to the next.
+
+Early-stage delinquencies, defined as 30-59 days past due, were trending slightly higher in February 2017 at 2.14 percent compared with 2.08 percent in February 2016, an increase of 0.06 percent year over year. The share of mortgages that were 60-89 days past due in February 2017 was 0.7 percent, unchanged from a year earlier.
+
+Since early-stage delinquencies can be volatile, CoreLogic also analyzes transition rates. The share of mortgages that transitioned from current to 30-days past due was 1 percent in February 2017, up from 0.8 percent in February 2016. By comparison, in January 2007, just before the start of the financial crisis, the current to 30-day transition rate was 1.2 percent and it peaked in November 2008 at 2 percent.
+
+"Serious delinquency and foreclosure rates continue to drift lower, and are at their lowest levels since the fourth quarter of 2007," said Dr. Frank Nothaft, chief economist for CoreLogic. "Moreover, the past-due share dropped to 5 percent, the lowest since September 2007. However, current-to-30-day past-due transition rates ticked up in February, and 30-day-to-60 day delinquency rates held mostly steady, recording only a 0.06 percent increase."
+
+"While national-level delinquency rates declined, the serious delinquency rate remained elevated in many mid-Atlantic and northeast states led by New York and New Jersey," said Frank Martell, president and CEO of CoreLogic. "February-to-February increases in both 30-day-or-more delinquency rates and in serious delinquency rates were also observed in Alaska, Louisiana and Wyoming relating to the impact of the downturn in the global oil market."

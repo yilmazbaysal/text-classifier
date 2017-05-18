@@ -1,0 +1,71 @@
+Hackathon innovators find potential solution for Sydney's congested trains
+
+Peak hour on trains across Sydney can often mean spending a trip pressed up against someone's armpit or the carriage door with only enough room to breathe in.
+
+And with hints that trains may become even more crowded with the potential cutting of services, the need for innovative solutions to cope with an increasing population and urban sprawl has never been more critical.
+
+This week teams of developers, designers and industry experts gathered at a hackathon battle to develop innovative solutions to transform Sydney into a "smart city".
+
+The event, hosted by energy management company Schneider Electric in partnership with start-up accelerator Blue Chilli, took place over two days.
+
+The teams had to choose one of three categories to develop within: work, live or play.
+
+The ideas were varied and included smartphones apps, including one to help facilitate a social network between dementia patients and their carers.
+
+The concept of facial recognition technology to anonymously track pedestrians and collect data on movement across the city was also floated.
+
+But the overall winning team, who all work in software at Schneider Electric, pitched their plan to install image recognition systems on trains to identify occupancy levels in carriages.
+
+The system would integrate artificial intelligence into train cameras and send that data to real-time indicators on platforms so waiting commuters could better distribute themselves and board less-crowded carriages.
+
+"A lot of people use our public transport and train carriages get incredibly busy, so it was really about understanding of how people were using the train and what parts of the train were less congested," said Darren Fraser, the "hustler" of the winning team.
+
+What's a hustler?
+
+The project team members take on the titles of hackers (programmers, engineers), hipsters (user experience, designers) and hustlers (sales, marketing).
+
+They pitched their ideas to a panel of four judges which included a representative from NSW Transport.
+
+"The idea certainly came from the team [as most of them] catch the train to our office in Macquarie Park, which sees something like 50,000 people coming into the station within an hour," Mr Fraser said.
+
+"One of the approaches was not so much saying that there's bigger initiatives by the government to create more capacity on the network, but that this is a solution to work out how to leverage the capacity you already have in a more effective way.
+
+"We'll hopefully help smooth out the peaks in terms of demand through facilities that help consumers change their behaviour and improve the overall experience."
+
+Simple idea stands out
+
+The team will now get the chance to develop the idea further and access to a $100,000 grant to bring the technology to fruition.
+
+Gareth O'Reilly, president of Schneider Electric Pacific, said the simple idea made it stand out.
+
+"The best teams today looked at the user experience and looked at how they could make their world better; what are the challenges that need to be solved," he said.
+
+"I think the capacity planning on networks can be solved, so will it be what they started with? Probably not.
+
+"But their approach to the idea was the right one and I'm very confident that something will come of it."
+
+Innovation key to the city's future
+
+Mr O'Reilly said urban planning should be focused on residents of the city and improving the way they lived and moved about the city.
+
+Part of that, he said, was harnessing the technology and infrastructure already in place.
+
+It was a sentiment also floated by urban scientist Professor Chris Petit from the University of NSW, who urged governments to utilise consumer data to create a smart city for when the population doubles in the next 30 years.
+
+"Creating wonderful, complex and organic cities like Australian cities and the one we're in today in Sydney is just about making them thriving and beautiful places where they want to live, work and play," Mr O'Reilly said.
+
+"That's why innovation is key; really looking at the user experience as citizens."
+
+Mr O'Reilly said public transport had to be an essential part of solving issues of traffic and congestion, as well as finding better energy outcomes and sustainable solutions for the city.
+
+"Government is looking for answers; government is us ... and if you stand back and expect someone to do it for you, you'll get nowhere," he said.
+
+"This is the great thing in innovation, taking that step to do something.
+
+"Government is looking for answers, so all you've got to do is show up and give them an idea."
+
+Mr Fraser echoed that sentiment.
+
+"At the end of the day, if people just keep asking what are the problems that exist and how do we go about coming up with interesting ideas to solve them, we'll get some pretty cool ideas," he said.
+
+A NSW Transport spokesperson said its Future Transport Technology plan highlighted its "desire to work with start-up organisations" like the hackathon co-hosts.

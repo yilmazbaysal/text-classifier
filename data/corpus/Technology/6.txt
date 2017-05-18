@@ -1,0 +1,5 @@
+New Pebble update allows watches to keep working once online servers go dark
+
+One of the biggest questions for Pebble owners following the company’s acquisition by Fitbit last year has been how long their watches would keep working going forward. And while Pebble had announced at the time that Fitbit would be “going out of its way” to keep the smartwatch platform’s software and services running through 2017, there hasn’t been much news of what would happen past that point, especially given that a fair portion of Pebble’s software is cloud based.
+
+To help address those issues, Pebble released an update this week that decouples the smartwatches from their dependency on cloud services, meaning that whenever Pebble’s servers do shut down, users will still be able to side load apps and new firmware to their smartwatches.

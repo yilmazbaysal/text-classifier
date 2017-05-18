@@ -1,0 +1,219 @@
+Will we know alien life when we see it?
+
+In a 1967 episode of Star Trek, Captain Kirk and his crew investigated the mysterious murders of miners on the planet Janus VI. The killer, it turned out, was a rock monster called the Horta. But the Enterprise’s sensors hadn’t registered any sign of life in the creature. The Horta was a silicon-based life-form. That made it different from any on Earth where everything is carbon-based.
+
+Still, it didn’t take long to determine that the Horta was alive. The first clue was that it skittered about. Spock closed the case with a mind meld. He learned that the creature was the last of its kind, protecting a throng of eggs.
+
+But recognizing life on different worlds isn’t likely to be this simple. It could prove especially hard if the recipe for life elsewhere does not include familiar ingredients. There may even be things alive on Earth that have been overlooked because they don’t fit standard definitions, some scientists suspect. The scientists that look for life outside Earth are called astrobiologists. They need some ground rules — with some built-in wiggle room — to know when they can confidently declare, “It’s alive!”                                     
+
+Among people working out those rules is Christoph Adami. He is a theoretical physicist at Michigan State University in East Lansing. He has watched his own version of silicon-based life grow. That life wasn’t real, though. It was a computer simulation.
+
+“It’s easy when it’s easy,” Adami says. “If you find something walking around and waving at you, it won’t be that hard to figure out that you’ve found life.” But chances are, the first aliens that humans encounter won’t be little green men. They will probably be tiny microbes of one color or another — or perhaps no color at all.
+
+By definition
+
+Scientists are trying to figure out how they might recognize those alien microbes. It could be really hard if the microbes are very strange. This has led researchers to propose some basic criteria for distinguishing living from nonliving things.
+
+Many insist that certain features must be present for any type of life, including aliens. These include an active metabolism, reproduction and evolution. Others add the requirement that life must have cells big enough to contain protein-building machines called ribosomes (RY-boh-soams).
+
+But such definitions can be overly strict. Making a list of needed criteria for life may give scientists tunnel vision, says Carol Cleland at the University of Colorado Boulder. That narrow vision could blind them to the diversity of life across the cosmos.
+
+Some scientists, for instance, say viruses aren’t alive because they rely on their host cells to reproduce. But Adami has “no doubt” that viruses live. “They don’t carry with them everything they need to survive,” he acknowledges. “But neither do we.” What’s important, Adami argues, is that viruses transmit genetic information from one generation to another. And at its simplest, he contends, life is just information that reproduces itself.
+
+Evolution should be off the table, too, Cleland says. After all, people would likely never be around long enough to tell whether something is evolving.
+
+Even restrictions on cell sizes may squeeze the tiniest microbes out of consideration as aliens. Yet it shouldn’t, argues Steven Benner. He’s an astrobiologist at the Foundation for Applied Molecular Evolution in Alachua, Fla. A cell too tiny to contain ribosomes may operate another way. Instead of proteins, it might use genetic material known as RNA to carry out biochemical reactions, he speculates. 
+
+Cells have been thought necessary because they separate one organism from another. But layers of clay could do that, Adami suggests. Cleland proposes that life might even exist as networks of chemical reactions — ones that don’t require any separation at all.
+
+It’s fantastical thinking. But that may just be what it takes for scientists to recognize unusual types of life, should such aliens turn up.
+
+Up close and personal
+
+In recent years, more than 1,000 planets have been spotted outside our solar system. With their discovery, the odds favoring the existence of alien life are better than ever. But even the most powerful telescopes can’t image distant life, especially if its microscopic. Chances of finding such tiny life improves if scientists can reach out and touch it.
+
+And that means looking within our solar system, says Robert Hazen. He’s a a scientist who studies minerals, working at the Carnegie Institution for Science in Washington, D.C.
+
+“You really need a rover down on its hands and knees analyzing chemicals,” he says. Such rovers are now sampling rocks on Mars. The Cassini space probe has bathed in the geysers spewing from Saturn’s icy moon Enceladus. Such robot explorers may one day send back signs of life. But only subtle signs of life — what scientists call “biomarkers.” And it may be very hard to tell true biomarkers apart from just some mineral, he notes, especially at a distance.
+
+“We really need to have life be as obvious as possible,” says Victoria Meadows. By obvious, she partly means Earth-like. She also partly means that this signal must be one that no chemical or geologic process alone could have left behind. Meadows is an astrobiologist with the National Aeronautics and Space Administration. She heads its Virtual Planetary Laboratory at the University of Washington in Seattle.
+
+Some scientists say life is an “I’ll know it when I see it” phenomenon, says Kathie Thomas-Keprta. But life also may be in the eye of the beholder. Thomas-Keprta knows this all too well from studying a Martian meteorite. She is a planetary geologist. She was part of a team at the NASA Johnson Space Center in Houston that studied a meteorite named ALH84001. (It was discovered in Antarctica’s Allan Hills ice field in 1984.)
+
+The team was led by Thomas-Keprta’s late colleague David McKay. In 1996, the scientists claimed that carbonate globules embedded in the meteorite looked a bit like microscopic life on Earth. The researchers found large organic (carbon-based) molecules. That indicated they formed at the same time. Thomas-Keprta also identified tiny crystals of magnetite overlapping the globules. These iron-based crystals looked much like ones made by certain bacteria on Earth. Such bacteria use chains of the crystals as a compass as they swim in search of nutrients.
+
+In the end, the scientists concluded they were looking at fossils of ancient Martians.
+
+Other scientists disagreed. The globules and crystals might have formed through other processes, critics said — with no life needed.
+
+That initial claim of fossil Martians has now been widely dismissed.
+
+But you may not need to leave our planet to find aliens. There’s the possibility of shadow life on Earth. It could be so strange that it has so far gone unrecognized, posits Cleland at the University of Colorado. Consider, she says, “desert varnish.”
+
+These are the dark stains on the sunny sides of some rocks in super-dry climates. Some scientists think certain bacteria or fungi might be responsible. Odd, communal microbes could be sucking energy out of the rocks. They might use this energy to fuel their creation of that hard outer coat of minerals. Such organisms might produce the varnish by cementing iron and manganese to clay and silicate particles.
+
+Curious, some scientists have tried to re-create desert varnish in the lab. They used fungi and bacteria. And they failed.
+
+In the wild, those varnishes form over millennia. Critics have argued that this is too slow to be something created by microbes. But how do we know, Cleland asks? “We have an assumption that life on Earth has a pace,” she says. Some shadow life may instead grow far more leisurely.
+
+Mineral distortions
+
+To find life, and classify it correctly, look for the odd thing out, suggests Hazen. He is looking for messages in minerals. Minerals do not occur evenly across the landscape. There are 4,933 recognized minerals on the planet, Hazen says. He and his crew have mapped the locations of 4,831 of them. And 22 percent of these exist in only one site. Close to 12 percent more occur in just two places.
+
+One reason for this skewed distribution is that as life has evolved, it has used local resources, turning them into new minerals. Take for example hazenite. (Yes, it’s named for Hazen.) This phosphate-based mineral is found only in California’s Mono Lake. Microbes living there are its only source. Other species may have led to similarly rare pockets of some mineral, Hazen’s group suspects.
+
+Finding such odd distributions of minerals on other planets or moons might indicate that life exists there, or once did. Hazen has advised NASA on how rovers might identify such mineral clues to life on Mars.
+
+Mars was once wet. It still has occasional running water. That shows it may once have been capable of hosting life. This and other evidence in 2013 led Benner, of the Foundation for Applied Molecular Evolution, to suggest that Mars may have seeded the life now on Earth. Whether that idea holds up may depend on finding Martians.
+
+But Benner doesn’t seem worried. “I would be surprised now if they don’t find life on Mars,” he says.
+
+Missions could easily bring astronauts to Mars to confirm a suspected find, says Dirk Schulze-Makuch. He’s an astrobiologist at Washington State University in Pullman. “If someone with a microscope sees a microbe and it “is wiggling and waving back, that’s really hard to refute,” he jokes. 
+
+Going for the less obvious
+
+But humans and even probes may have a harder time spotting life on more distant or exotic locales. Prime targets are the moons of Jupiter and Saturn. E.T. hunters are attracted to Europa and Enceladus because their liquid oceans slosh beneath icy crusts.
+
+Liquid water is thought to be necessary for many of the chemical reactions that could support life. But water is actually a terrible solvent for building complex molecules on which life could be based, Schulze-Makuch notes. Instead, he thinks really alien aliens might have spawned at hot spots deep in the hydrocarbon lakes of Titan, Saturn’s biggest moon. “Whether you can get all the way to life, we don’t know,” he says.
+
+Perhaps the biggest challenge for Titanic life is the extreme cold, says Paulette Clancy. She’s a chemical engineer at Cornell University in Ithaca, N.Y. This moon is so frosty that its methane — a gas on balmy Earth — is a viscous, almost-frozen liquid. And water, she says, “would be like a rock.” Under those conditions, she notes, organisms with Earth-like chemistry wouldn’t stand a chance. For one thing, the membranes that hold in an Earth cell’s guts wouldn’t work on Titan.
+
+But Clancy and her colleagues simulated experiments under Titan-like conditions. And certain short-tailed molecules could spontaneously create stable bubbles, they found. Those bubbles are similar to cell membranes.
+
+Like desert varnish, life on Titan may grow slowly. There is little sunlight or heat. Its frigid temperatures would keep chemical reactions sluggish. So if life were to exist here, Schulze-Makuch imagines it would have lifespans perhaps millions of years long. Organisms might reproduce — or even breathe — just once every thousand years!
+
+With so many options out there, Clancy predicts that there are several planets or moons with life on them. Many other researchers are also optimistic that life is out there to find. In the future, astrobiologists may come face-to-face with E.T. And when they do, they might even recognize it for what it is.
+Power Words
+(for more about Power Words, click here)
+
+alien     A non-native organism. (in astronomy) Life on or from a distant world.
+
+Antarctica     A continent mostly covered in ice, which sits in the southernmost part of the world.
+
+arid     A description of dry areas of the world, where the climate brings too little rainfall or other precipitation to support much plant growth.
+
+astrobiology     The study of life everywhere in the universe, including on Earth and in space.
+
+atom     The basic unit of a chemical element. Atoms are made up of a dense nucleus that contains positively charged protons and uncharged neutrons. The nucleus is orbited by a cloud of negatively charged electrons.
+
+bias     The tendency to hold a particular perspective or preference that favors some thing, some group or some choice.
+
+biochemical     (adj.) Referring to something made and used within living things.
+
+biology     The study of living things. The scientists who study them are known as biologists.
+
+carbon     The chemical element having the atomic number 6. It is the physical basis of all life on Earth. Carbon exists freely as graphite and diamond. 
+
+Cassini     A space probe sent by NASA to explore the planet Saturn. Cassini was launched from Earth in 1997. It reached Saturn in late 2004. The craft included a variety of instruments meant to study Saturn’s moons, rings, magnetic field and atmosphere.
+
+cell     The smallest structural and functional unit of an organism. Typically too small to see with the unaided eye, it consists of watery fluid surrounded by a membrane or wall. 
+
+cell membrane     A structure that separates the inside of a cell from the outside of it. Some particles are permitted to pass through the membrane.
+
+chemical     A substance formed from two or more atoms that unite (become bonded together) in a fixed proportion and structure. For example, water is a chemical made when two hydrogen atoms bond to one oxygen atom. Its chemical formula is H2O. Chemical can also be an adjective to describe properties of materials that are the result of various reactions between different compounds.
+
+chemical engineer     A researcher who uses chemistry to solve problems related to the production of food, fuel, medicines and many other products.
+
+chemical reaction     A process that involves the rearrangement of the molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).
+
+chemistry     The field of science that deals with the composition, structure and properties of substances and how they interact with one another. Chemists use this knowledge to study unfamiliar substances, to reproduce large quantities of useful substances or to design and create new and useful substances. 
+
+clay     Fine-grained particles of soil that stick together and can be molded when wet.
+
+colleague     Someone who works with another; a co-worker or team member.
+
+cosmos     (adj. cosmic) A term that refers to the universe and everything within it.
+
+criteria    (sing. criterion) The standards, rules, traits or other things used to make a judgment or determination about something.
+
+diversity     (in biology) A range of different life forms.
+
+DNA     (short for deoxyribonucleic acid) A long, double-stranded and spiral-shaped molecule inside most living cells that carries genetic instructions. It is built on a backbone of phosphorus, oxygen, and carbon atoms. In all living things, from plants and animals to microbes, these instructions tell cells which molecules to make.
+
+element     (in chemistry) Each of more than one hundred substances for which the smallest unit of each is a single atom. Examples include hydrogen, oxygen, carbon, lithium and uranium.
+
+Enceladus     The sixth largest of Saturn’s more than 50 moons. Enceladus is bright white and covered with a thick shell of ice. Deep beneath that ice sits what appears to be a global ocean of salty liquid water. Enceladus is a round sphere, 500 kilometers (310 miles) across. It is a little less than one-third the width of Earth's moon.
+
+engineer     A person who uses science to solve problems. As a verb, to engineer means to design a device, material or process that will solve some problem or unmet need.
+
+environment     The sum of all of the things that exist around some organism or some device and the condition those things create for that organism or device. Environment may refer to the weather and ecosystem in which some animal lives, or, perhaps, the temperature, humidity and placement of components in some electronics system or product.
+
+E.T.      (n.) An abbreviation made famous by the 1982 Universal Pictures movie, E.T. the Extra-Terrestrial. The main character was a charming space alien called E.T. His most famous line from the movie was “E.T. phone home.” E.T. has since come to be used as a colloquial term for any intelligent and potentially friendly space alien.
+
+Europa     One of the moons of Jupiter and the sixth-closest satellite to the planet. Europa, 1,951 miles across, has a network of dark lines on a bright, icy surface.
+
+evolution     (v. to evolve) A process by which species undergo changes over time, usually through genetic variation and natural selection. These changes usually result in a new type of organism better suited for its environment than the earlier type. The newer type is not necessarily more “advanced,” just better adapted to the conditions in which it developed. 
+
+fossil     Any preserved remains or traces of ancient life. There are many different types of fossils: The bones and other body parts of dinosaurs are called “body fossils.” Things like footprints are called “trace fossils.” Even specimens of dinosaur poop are fossils. The process of forming fossils is called fossilization.
+
+generation     A group of individuals born about the same time or that are regarded as a single group. Your parents belong to one generation of your family, for example, and your grandparents to another.
+
+genetic     Having to do with chromosomes, DNA and the genes contained within DNA. The field of science dealing with these biological instructions is known as genetics. People who work in this field are geneticists.
+
+geology     (adj. geologic) The study of Earth’s physical structure and substance, its history and the processes that act on it. People who work in this field are known as geologists. Planetary geology is the science of studying the same things about other planets.
+
+geyser     A vent (opening) in Earth’s surface that intermittently sends up a tall spray of steam or hot water. The sometimes explosive discharge of water and steam is propelled by the geothermal heating of water below ground.
+
+hydrocarbon     Any of a range of large molecules created by chemically bound carbon and hydrogen atoms. Crude oil, for example, is a naturally occurring mix of many hydrocarbons.
+
+magnetite     A gray-black iron-bearing mineral, the most magnetic known. As shown in its chemical formula, each molecule of magnetite (Fe3O4) consists of three iron (Fe) atoms and four oxygen (O) atoms.
+
+manganese     The chemical element of atomic number 25, a hard gray metal of the transition series. Manganese is an important component of special steels.
+
+metabolism     The set of life-sustaining chemical reactions that take place inside cells and bigger structures, such as organs. These reactions enable organisms to grow, reproduce, move and otherwise respond to their environments.
+
+methane     A hydrocarbon with the chemical formula CH4 (meaning there are four hydrogen atoms bound to one carbon atom). It’s a natural constituent of what’s known as natural gas. It’s also emitted by decomposing plant material in wetlands and is belched out by cows and other ruminant livestock.
+
+microbe     Short for microorganism. A living thing that is too small to see with the unaided eye, including bacteria, some fungi and many other organisms such as amoebas. Most consist of a single cell.
+
+microscopic     An adjective for things too small to be seen by the unaided eye. It takes a microscope to view such tiny objects, such as bacteria or other one-celled organisms.
+
+mineral     The crystal-forming substances, such as quartz, apatite, or various carbonates, that make up rock. Most rocks contain several different minerals mish-mashed together. A mineral usually is solid and stable at room temperatures and has a specific formula, or recipe (with atoms occurring in certain proportions) and a specific crystalline structure (meaning that its atoms are organized in certain regular three-dimensional patterns).
+
+molecule     An electrically neutral group of atoms that represents the smallest possible amount of a chemical compound. Molecules can be made of single types of atoms or of different types. For example, the oxygen in the air is made of two oxygen atoms (O2), but water is made of two hydrogen atoms and one oxygen atom (H2O).
+
+moon     The natural satellite of any planet.
+
+National Aeronautics and Space Administration     (or NASA) Created in 1958, this U.S. agency has become a leader in space research and in stimulating public interest in space exploration. It was through NASA that the United States sent people into orbit and ultimately to the moon. It has also sent research craft to study planets and other celestial objects in our solar system.
+
+network     A group of interconnected people or things.
+
+organic     (in chemistry) An adjective that indicates something is carbon-containing; a term that relates to the chemicals that make up living organisms.
+
+organism     Any living thing.
+
+phenomenon     Something that is surprising or unusual.
+
+phosphate     A chemical containing one atom of phosphorus and four atoms of oxygen. It is a component of bones, hard white tooth enamel, and some minerals such as apatite.
+
+physicist     A scientist who studies the nature and properties of matter and energy.
+
+planet     A celestial object that orbits a star, is big enough for gravity to have squashed it into a roundish ball and has cleared other objects out of the way in its orbital neighborhood. To accomplish the third feat, the object must be big enough to have pulled neighboring objects into the planet itself or to have slung them around the planet and off into outer space. Astronomers of the International Astronomical Union (IAU) created this three-part scientific definition of a planet in August 2006 to determine Pluto’s status. Based on that definition, IAU ruled that Pluto did not qualify. The solar system now includes eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.
+
+protein     Compound made from one or more long chains of amino acids. Proteins are an essential part of all living organisms. They form the basis of living cells, muscle and tissues; they also do the work inside of cells.
+
+RNA     A molecule that helps “read” the genetic information contained in DNA. A cell’s molecular machinery reads DNA to create RNA, and then reads RNA to create proteins.
+
+sensor     A device that picks up information on physical or chemical conditions — such as temperature, barometric pressure, salinity, humidity, pH, light intensity or radiation — and stores or broadcasts that information. Scientists and engineers often rely on sensors to inform them of conditions that may change over time or that exist far from where a researcher can measure them directly.
+
+silicate     A mineral containing silicon atoms and usually oxygen atoms. The majority of Earth’s crust is made of silicate minerals.
+
+silicon     A nonmetal, semiconducting element used in making electronic circuits. Pure silicon exists in a shiny, dark-gray crystalline form and as a shapeless powder.
+
+simulation     (v. simulate) An analysis, often made using a computer, of some conditions, functions or appearance of a physical system. A computer program would do this by using mathematical operations that can describe the system and how it might vary in response to various situations or over time.
+
+solar system     The eight major planets and their moons in orbit around our sun, together with smaller bodies in the form of dwarf planets, asteroids, meteoroids and comets.
+
+solvent     A material (usually a liquid) used to dissolve some other material into a solution.
+
+star     The basic building block from which galaxies are made. Stars develop when gravity compacts clouds of gas. When they become dense enough to sustain nuclear-fusion reactions, stars will emit light and sometimes other forms of electromagnetic radiation. The sun is our closest star.
+
+subtle     Some feature that may be important, but can be hard to see or describe. For instance, the first cellular changes that signal the start of a cancer may be visible but subtle — small and hard to distinguish from nearby healthy tissues.
+
+theoretical     An adjective for an analysis or assessment of something that based on pre-existing knowledge of how things behave. It is not based on experimental trials. Theoretical research tends to use math — usually performed by computers — to predict how or what will occur for some specified series of conditions.
+
+unique     Something that is unlike anything else; the only one of its kind.
+
+universe     The entire cosmos: All things that exist throughout space and time. It has been expanding since its formation during an event known as the Big Bang, some 13.8 billion years ago (give or take a few hundred million years).
+
+viscous     The property of being thick, sticky and hard to pour. Molasses and maple syrup are two examples of viscous liquids.

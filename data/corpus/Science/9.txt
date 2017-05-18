@@ -1,0 +1,35 @@
+ALMA Spots Two Young Milky Way-Like Galaxies in Early Universe
+
+Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) have observed a pair of massive, dusty galaxies seen when the Universe was only 8% of its current age. These progenitors of today’s spiral galaxies are surrounded by ‘super halos’ that extend many tens-of-thousands of light-years beyond their disks.
+
+The astronomers initially detected the two galaxies — which are officially designated ALMA J081740.86+135138.2 and ALMA J120110.26+211756.2 — by studying the intense light from even-more-distant quasars.
+
+The galaxies are each about 12 billion light-years from Earth. The background quasars — QSO J0817+1351 and QSO J1201+2117 — are each roughly 12.5 billion light-years from Earth.
+
+As the light travels through an intervening galaxy on its way to Earth, it can pick up the unique spectral signature from the galaxy’s gas.
+
+This technique, however, normally prevents astronomers from seeing the actual light emitted by the galaxy, which is overwhelmed by the much brighter emission from the background quasar.
+
+“Imagine a tiny firefly next to a high-power search light. That’s what astronomers are up against when it comes to observing these youthful versions of our home galaxy,” explained Dr. Marcel Neeleman, from the University of California, Santa Cruz.
+
+“We can now see the galaxies themselves, which gives us an amazing opportunity to learn about the earliest history of our own galaxy and others like it.”
+
+Dr. Neeleman and co-authors were able to observe the natural millimeter-wavelength ‘glow’ emitted by ionized carbon in the dense and dusty star-forming regions of the galaxies.
+
+This carbon signature, however, is considerably offset from the gas first detected by quasar absorption.
+
+This extreme separation indicates that the galaxies’ gas content extends well beyond their star-filled disks, suggesting that each galaxy is embedded in a monstrous halo of hydrogen gas.
+
+“We had expected we would see faint emissions right on top of the quasar, and instead we saw strong bright carbon emission from the galaxies at large separations from their background quasars,” said Prof. J. Xavier Prochaska, also from the University of California, Santa Cruz.
+
+The separation from the quasar to the observed galaxy is about 137,000 light-years for one galaxy and about 59,000 light-years for the other.
+
+“The neutral hydrogen gas revealed by its absorption of quasar light is most likely part of a large halo or extended disk of gas around the galaxy,” Dr. Neeleman said.
+
+“It’s not where the star formation is, and to see so much gas that far from the star-forming region means there is a large amount of neutral hydrogen around the galaxy. We don’t know if it’s in a large, extended disk of gas that’s falling in, or if it’s just a really dense halo of gas around the galaxy.”
+
+“The emission spectrum from one of the galaxies does indicate the presence of a rotating disk,” Prof. Prochaska added.
+
+The ALMA observations further reveal that both galaxies are forming stars at moderately high rates: more than 100 solar masses per year in one galaxy and about 25 solar masses per year in the other.
+
+“These galaxies appear to be massive, dusty, and rapidly star-forming systems, with large, extended layers of gas. These observations give us terrific insight into how galaxies like our Milky Way looked 13 billion years ago,” Prof. Prochaska said.

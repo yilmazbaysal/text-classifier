@@ -1,0 +1,16 @@
+Oxygen on comet 67P might not be ancient after all
+Newly discovered chemical reaction could generate the gas instead, study suggests
+
+Oxygen on comets might not date all the way back to the birth of the solar system.
+
+Instead, interactions between water, particles streaming from the sun and grains of sand or rust on the comet’s surface could generate the gas. Those interactions could explain the surprising abundance of O2 detected in the fuzzy envelope of gas around comet 67P/Churyumov-Gerasimenko in 2015 (SN: 11/28/15, p. 6), researchers report May 8 in Nature Communications. Such reactions might also reveal how oxygen forms in other regions of space.
+
+“Molecular oxygen is very hard to find out there in the universe,” says Caltech chemical engineer Konstantinos Giapis. When the Rosetta spacecraft detected oxygen around comet 67P, astronomers argued it must be primordial, trapped in water ice as the comet formed roughly 4.6 billion years ago. Intrigued by the result, Giapis and Caltech colleague Yunxi Yao wanted to see if an alternative way to create O2 existed. Drawing on their work with fast-moving charged particles and materials such as silicon, they performed experiments that showed that charged water particles could slam into rust or sand grains and generate O2.
+
+Something similar could happen on comet 67P, they suggest. As the sun evaporates water from the comet’s surface, ultraviolet light could strip an electron from the water, giving it a positive charge. Then, fast-moving particles in the solar wind could shoot the ionized water back toward the comet’s surface, where it could collide with rust or sand particles. Atoms of oxygen from the water could pair with atoms of oxygen from the rust or sand, creating O2.
+
+The idea is plausible, says Paul Goldsmith, an astrophysicist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif. He helped discover O2 in the Orion nebula and says the reaction might happen in places where young stars are forming and in other regions of space.
+
+Rosetta mission scientist Kathrin Altwegg of the University of Bern in Switzerland calls the result interesting, but is skeptical it can explain comet 67P’s oxygen abundance. As the comet gets closer to the sun, a protective bubble develops around 67P, data from the mission showed; that bubble would prevent solar wind particles or other ionized particles from reaching the comet’s surface, Altwegg says. Also, the ratio of oxygen to un-ionized water also stays constant over time. It should be more variable if this chemical reaction were generating oxygen on the comet, she says.
+
+Goldsmith, however, suggests researchers keep an open mind and design missions with instruments to test whether this newly detected reaction does, in fact, generate oxygen in space.

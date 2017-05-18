@@ -5,4 +5,5 @@ handler = TextHandler()
 
 classifier = Classifier(handler.get_train_data(), handler.get_vocabulary())
 
-print(classifier.find_sense(['ball']))
+for test_id, test_instance in handler.get_test_data():
+    print(test_id, '->', classifier.find_sense(test_instance))

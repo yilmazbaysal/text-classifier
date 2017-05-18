@@ -1,0 +1,113 @@
+Hyperloop or hyper-loopy? The race to make high-speed tube travel a reality
+
+It sounds like a circus trick — you put someone in a metal capsule and then fire them through a really long tube at high speed.
+
+But it's actually the basis of a new transport technology called hyperloop.
+
+Its promise is a familiar one: efficiency and speed.
+
+But with a hyperloop, speed means travelling at over 1,000kph and efficiency means almost no fuel cost.
+
+That's the idea, at least.
+
+New tech, old concept
+
+Several international companies are competing to build the first commercially viable passenger hyperloop track, with a French-based company Hyperloop Transportation Technologies (HTT) already hinting they will soon be making a public statement about location and track length.
+
+To understand the way a hyperloop system works, it helps to think of the old-fashioned pneumatic tube mail systems that were a mainstay of department and hardware stores early last century.
+
+Those systems allowed for the vertical transportation of a capsule using compressed air.
+
+With a hyperloop the principle is similar, but the tube is horizontal and the capsule or "pod" is propelled through a vacuum using a small engine.
+
+"When you have a normal train, 90 per cent of the energy consumption comes from the air resistance," HTT's founder and chief executive, Dirk Ahlborn, said.
+
+"The hyperloop is inside the tube, where basically you are taking almost all the air out, so now the capsule doesn't encounter any resistance anymore. It can go much faster, consuming very little energy.
+"The challenge is to build a system that makes economic sense. The hyperloop, because of its unique features ... uses very little energy, has a very low operational cost and therefore can be profitable."
+
+A magnetic levitation (or maglev) system is used in place of a traditional guide rail or rails.
+
+Such systems are already well-tested and have proved effective at high speed.
+
+The fastest bullet-train currently in commercial use, the German-built Shanghai Maglev, has a top speed of around 429kph, while a maglev train still under construction in Japan has reached test speeds in excess of 600kph.
+
+Mr Ahlborn said his company's system will be built on pylons in order to safeguard against the danger of a tectonic movement rupturing the hyperloop tube.
+
+But Mr Ahlborn said the main hold-up to development so far has been legislative, not technical.
+
+"We're talking about a completely new mode of transportation," he said.
+
+"It's not a plane, it's not a train. So you have to work with the legislators to create new laws and new regulations. That's the trickiest part."
+
+A tube from Sydney to Melbourne?
+
+Another company also involved in the race to build the first commercial passenger tube is Hyperloop One, which has already identified Australia as a potential market.
+Steve Artis, the chief executive of its partner company Ultraspeed Australia, said the companies have been investigating the feasibility of constructing a vacuum-tube line between Sydney and Melbourne — and mechanical testing is ongoing at a special facility in the US state of Nevada.
+
+But details are sketchy.
+
+"We are engaging with relevant stakeholders across Australia at the moment, and we have done for quite a number of months — we're reasonably confident of building our case," Mr Artis said.
+"In terms of the commercial availability of the system we hope to have a scoping study or business case developed over the next few months, and that would prove the commercial viability of it in Australia."
+
+'Human factor' a complication
+
+Both HTT and Hyperloop One are yet to do field tests using human passengers.
+
+For this reason, the University of Sydney's David Levinson argued it was premature to be building a business case.
+
+"They're going to put people into a sealed container and accelerate them at very high rates of acceleration, sometimes around curves," he said.
+
+"We don't know how normal people will react to that because we haven't done that before with normal people.
+
+"This is sort of test pilot territory. People aren't going to be really excited about being in a rollercoaster for a very long period of time.
+"Yes, people have flown at 1,000kph in the Concorde — but there's a different type of acceleration and deceleration profile associated with that."
+
+Dr Levinson, a professor of transport engineering, also has safety concerns.
+
+"Track inside a tube is really pretty vulnerable to attack," he said.
+
+"How does such a thing respond if the tube gets punctured? What happens to the capsules that are inside of it? Does it gracefully decelerate or does some sort of implosion happen?
+
+"People are going to expect something like this to be as safe or safer than trains or aeroplanes if they are going to be entrusting such a company with their lives."
+
+A spirit of competition and cooperation
+
+Not all the interest in hyperloop technology is coming from the business sector.
+
+In January this year, university teams from across the world came together at an event sponsored by billionaire entrepreneur Elon Musk, the owner of SpaceX and Tesla.
+
+Musk first began talking about the technology's future back in 2013 and his Hyperloop Challenge is designed to encourage both competition and sharing.
+
+More than 100 teams took part in his competition to build and test-run a hyperloop pod, and were required to make their research and results open source.
+
+An Australian team from RMIT University, led by student Zachary McClelland, made it into the finals.
+
+"We actually had to build a prototype, take it to Los Angeles and test," he said.
+
+"We decided we'd focus on our brakes, because when you're travelling at that speed, safety is absolutely crucial.
+"If you've got any problems you need to be able to know that your brakes will never fail."
+
+The RMIT crew, called VicHyper, was presented with an award for their innovative braking system at an earlier stage of the competition in Texas in 2016.
+
+The winner of January's heat was a team from Delft University in the Netherlands.
+
+They successfully completed a "vacuum pump run", in which they propelled their purpose-built pod through a 1.2km tube.
+
+eam leader Edouard Schneiders said they were already looking ahead to next year's competition.
+
+Their focus will be to eliminate a "wobble" that occurred during their January run.
+
+"It's quite hard to lay a really perfect track, which is why everything sort of wobbled quite a lot," Mr Schneiders said.
+"I think it's more realistic to try and develop a machine or a vehicle, which can deal with an imperfect track.
+
+"There's a number of ways to try and get around this. One of these would be active suspension — a suspended system that would read the track before, or maybe as, the pod passes through it [and] store the data of what the track looks like, so that you could make your suspension perfectly align for the track. That's something we want to try and focus on."
+
+Does Musk believe the hyperloop hype?
+
+Given that Musk has a reputation as a serial entrepreneur, it might seem curious to some that he has decided to fund a student competition, rather than get directly involved in hyperloop development.
+
+Whether or not he believes the technology will really have practical application in the future is an open question.
+
+However, a speech he gave at the January event does give some insight into his thinking.
+
+"What this is really intended to do is to encourage innovation in transport technology, to get people excited about new forms of transport — things that may be completely different from what we see today — to really get people to innovate, to explore the boundaries of physics," he said.
