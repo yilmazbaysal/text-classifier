@@ -14,9 +14,11 @@ English
 In Text Classification one or more classes are assigned to a document according to their content. Classes are selected from a previously established taxonomy (a hierarchy of catergories or classes). The Text Classification API takes care of all preprocessing tasks (extracting text, tokenization, stop-word removal and stemming) required for automated classification.  
 
 ## Command To Run The Code
-    python3 main.py $(data_folder_path)
+    python3 main.py
 
 ## Input file structure
+Input data folder should be in the same directory with the main.py script.
+
     |-- data/
     |   |-- train/
     |   |   |-- class1/
