@@ -1,19 +1,19 @@
-# TEXT CLASSIFIER
+# Text Classifier
 
-## Project Group Members
+## Project group members
 - Yılmaz BAYSAL - _21327694_
 - Yunus Emre ZENCİRLİ - _21328667_
 
-## Project Subject
+## Project subject
 Text Classification 
 
-## Used Language
+## Used language
 English
 
-## Brief Introduction About Project Content   
+## Brief introduction about project content   
 In Text Classification one or more classes are assigned to a document according to their content. Classes are selected from a previously established taxonomy (a hierarchy of catergories or classes). The Text Classification API takes care of all preprocessing tasks (extracting text, tokenization, stop-word removal and stemming) required for automated classification.  
 
-## Command To Run The Code
+## Command to run the code
     python3 main.py
 
 ## Input file structure
@@ -40,7 +40,7 @@ Input data folder should be in the same directory with the main.py script.
 ## Output file format
 Outputs are printed on both to the console and to a file named _output.txt_
 
-### Sample output  
+### Example output
     test_instance_1.txt -> Sport
     test_instance_2.txt -> Politics  
     test_instance_3.txt -> Art & Design  

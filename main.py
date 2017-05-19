@@ -8,10 +8,13 @@ classifier = Classifier(handler.get_train_data(), handler.get_vocabulary())
 
 f = open('output.txt', 'w')
 
-test_instance_count = 5
 index = 1
+test_instance_count = 5
 for test_id, test_instance in handler.get_test_data():
-    probability, category = classifier.find_sense(test_instance)
+    # Find the class
+    probability, category = classifier.find_class(test_instance)
+
+    # Print the results to both console and a file
     print('{0} -> {1}'.format(test_id, category))
     f.write('{0} -> {1}\n'.format(test_id, category))
 

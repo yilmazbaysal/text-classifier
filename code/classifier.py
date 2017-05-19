@@ -8,12 +8,12 @@ class Classifier:
         self.V = len(vocabulary)
         self.instance_count = sum([len([self.train_data[key]]) for key in self.train_data.keys()])
 
-    def find_sense(self, test_data):
+    def find_class(self, test_data):
         """
         :param test_data: A string which contains the tagged word
-        :return: Calculated sense id of the word
+        :return: probability (calculated with logarithm), Calculated class id of the word
         """
-        maximum = (float("-inf"), "")  # (Probability, Sense ID)
+        maximum = (float("-inf"), "")  # (Probability, Class ID)
         for sense_id in self.train_data.keys():
             instance_word_counts = 0
             for instance_id in self.train_data[sense_id].keys():

@@ -15,6 +15,11 @@ class TextHandler:
         self.train_data = self.__read_train_data()
 
     def __read_train_data(self, folder_path='data/train'):
+        """
+        Reads all files in the given directory recursively. Stores them in a dict with their folder names.
+        :param folder_path: Path of the train data folder.
+        :return: A dictionary which stores folder_name, file_name, cleaned_token_list
+        """
         result = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
 
         for directory in listdir(folder_path):
@@ -38,6 +43,11 @@ class TextHandler:
         return self.__clean(f.read())
 
     def get_test_data(self, folder_path='data/test'):
+        """
+            Reads all files in the given directory in the alphabetical order.
+            :param folder_path: Path of the test data folder.
+            :return: (Name of the read file, List of the tokens in the read file)
+        """
         for file_name in sorted(listdir(folder_path)):
 
             word_list = list()
@@ -45,9 +55,14 @@ class TextHandler:
                 if token not in self.stop_words:
                     word_list.append(token)
 
-            yield file_name, word_list
+            yield file_name, word_list  # Generator (A file at each iteration)
 
     def __clean(self, text):
+        """
+        Cleans the given text from punctuations and puts the tokens in a stemmer.
+        :param text: A string which it's tokens separated by whitespaces.
+        :return: Cleaned and stemmed token list.
+        """
         text = re.sub('([^\w\d\s\-])', '', text).lower()
 
         return [self.stemmer.stem(word) for word in text.split()]
