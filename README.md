@@ -1,14 +1,19 @@
-# Text Classifier
+# TEXT CLASSIFIER
 
-Yılmaz BAYSAL (21327694) - Yunus Emre ZENCİRLİ (21328667)
+## Project Group Members
+- Yılmaz BAYSAL _21327694_
+- Yunus Emre ZENCİRLİ _21328667_
 
-Project subject: Text Classification - Used languages: English
+## Project Subject
+Text Classification 
 
-=============================  
-In Text Classification one or more classes are assigned to a document according to their content. Classes are selected from a previously established taxonomy (a hierarchy of catergories or classes). The Text Classification API takes care of all preprocessing tasks (extracting text, tokenization, stop-word removal and stemming) required for automated classification.
-=============================
+## Used Language
+English
 
-## Command to run the code
+## Brief Introduction About Project Content   
+In Text Classification one or more classes are assigned to a document according to their content. Classes are selected from a previously established taxonomy (a hierarchy of catergories or classes). The Text Classification API takes care of all preprocessing tasks (extracting text, tokenization, stop-word removal and stemming) required for automated classification.  
+
+## Command To Run The Code
 _python3 main.py $(data_folder_path)_
 
 ## Input file structure
@@ -33,12 +38,7 @@ _python3 main.py $(data_folder_path)_
 ## Output file format
 Outputs are printed on both to the console and to a file named _output.txt_
 
-=============================  
-art_design_1.txt -> Art & Design  
-art_design_2.txt -> Art & Design  
-art_design_3.txt -> Art & Design  
-  
-education_1.txt -> Education  
-education_2.txt -> Education  
-education_3.txt -> Education  
-=============================  
+### Sample output  
+    test_instance_1.txt -> Sport
+    test_instance_2.txt -> Politics  
+    test_instance_3.txt -> Art & Design  
