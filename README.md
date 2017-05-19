@@ -17,7 +17,7 @@ In Text Classification one or more classes are assigned to a document according 
     python3 main.py
 
 ## Input file structure
-Input data folder should be in the same directory with the main.py script.
+Input _data_ folder should be in the same directory with the _main.py_ script.
 
     |-- data/
     |   |-- train/
