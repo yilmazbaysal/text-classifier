@@ -14,7 +14,7 @@ class TextHandler:
         self.stop_words = self.__get_stop_words()
         self.train_data = self.__read_train_data()
 
-    def __read_train_data(self, folder_path='data/corpus'):
+    def __read_train_data(self, folder_path='data/train'):
         result = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
 
         for directory in listdir(folder_path):
@@ -38,7 +38,7 @@ class TextHandler:
         return self.__clean(f.read())
 
     def get_test_data(self, folder_path='data/test'):
-        for file_name in listdir(folder_path):
+        for file_name in sorted(listdir(folder_path)):
 
             word_list = list()
             for token in self.__clean(open(path.join(folder_path, file_name)).read()):

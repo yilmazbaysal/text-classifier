@@ -10,7 +10,7 @@ class Classifier:
 
     def find_sense(self, test_data):
         """
-        :param test_instance: A string which contains the tagged word
+        :param test_data: A string which contains the tagged word
         :return: Calculated sense id of the word
         """
         maximum = (float("-inf"), "")  # (Probability, Sense ID)
@@ -31,6 +31,4 @@ class Classifier:
             if probability > maximum[0]:
                 maximum = (probability, sense_id)
 
-        print(maximum)
-
-        return maximum[1]
+        return maximum

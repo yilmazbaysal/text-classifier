@@ -5,5 +5,13 @@ handler = TextHandler()
 
 classifier = Classifier(handler.get_train_data(), handler.get_vocabulary())
 
+test_instance_count = 5
+index = 1
 for test_id, test_instance in handler.get_test_data():
-    print(test_id, '->', classifier.find_sense(test_instance))
+    probability, category = classifier.find_sense(test_instance)
+    print('{0} -> {1}'.format(test_id, category))
+
+    # To print more beautifully
+    if index % test_instance_count == 0:
+        print()
+    index += 1
