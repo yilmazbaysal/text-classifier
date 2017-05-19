@@ -1,8 +1,8 @@
 # TEXT CLASSIFIER
 
 ## Project Group Members
-- Yılmaz BAYSAL _21327694_
-- Yunus Emre ZENCİRLİ _21328667_
+- Yılmaz BAYSAL - _21327694_
+- Yunus Emre ZENCİRLİ - _21328667_
 
 ## Project Subject
 Text Classification 
@@ -14,7 +14,7 @@ English
 In Text Classification one or more classes are assigned to a document according to their content. Classes are selected from a previously established taxonomy (a hierarchy of catergories or classes). The Text Classification API takes care of all preprocessing tasks (extracting text, tokenization, stop-word removal and stemming) required for automated classification.  
 
 ## Command To Run The Code
-_python3 main.py $(data_folder_path)_
+    python3 main.py $(data_folder_path)
 
 ## Input file structure
     |-- data/
