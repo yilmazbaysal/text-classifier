@@ -1,0 +1,36 @@
+Uber Threatens to Fire Star Engineer in Legal Battle Over Driverless Cars
+
+SAN FRANCISCO — Uber has signaled that it might break up with the star engineer who led its driverless car efforts, as the company seeks to disentangle itself from a high-stakes lawsuit that could affect its future in self-driving vehicles.
+
+To comply with a court order, Uber’s top lawyer told the engineer, Anthony Levandowski, in a letter that if he did not comply with the lawsuit, he could face “adverse employment action,” which may include the loss of his job, according to a court filing on Thursday.
+
+“While we have respected your personal liberties, it is our view that the court’s order requires us to make these demands of you,” Salle Yoo, Uber’s general counsel, said in the letter. “We insist that you do everything in your power to assist us in complying with the order.”
+
+The letter was the latest turn in a legal battle between two technology giants. Mr. Levandowski has been at the center of a trade secrets case involving Uber and Waymo, the self-driving car business that operates under Google’s parent company. Waymo has accused Uber of conspiring with Mr. Levandowki, a former Google engineer, to steal trade secrets from Google for Uber’s autonomous vehicle designs.
+
+Continue reading the main story
+RELATED COVERAGE
+
+
+Judge Denies Uber’s Motion for Private Arbitration MAY 12, 2017
+
+Uber and Waymo Duel at Key Hearing Over Driverless Car Technology MAY 3, 2017
+
+Uber’s C.E.O. Plays With Fire APRIL 23, 2017
+
+Executive Who Steered Uber Through Scandals Joins Exodus APRIL 11, 2017
+The letter is the first public sign of a split between Mr. Levandowski and Uber, which to date has not tried to force him to cooperate with the investigation in the case. Mr. Levandowski has been close to Uber’s chief executive, Travis Kalanick, who wooed the engineer to join the ride-hailing company and purchased Otto, the start-up Mr. Levandowski formed after leaving Google, for nearly $700 million last year.
+
+Mr. Levandowski, who is not being sued, has remained silent in the case. In March he exercised his Fifth Amendment rights against self-incrimination, an effort to avoid what his legal counsel said was the potential for criminal charges.
+
+The letter from Uber orders Mr. Levandowski, who oversees most of Uber’s autonomous vehicle research efforts, to comply with the court’s investigation into the more than 9.7 gigabytes of data Waymo has accused him of stealing, or else face consequences like losing his job. That could include testifying or turning over any Waymo data he may have.
+
+Uber and Waymo are locked in competition as they develop autonomous vehicles, considered by many to be the future of transportation. The outcome of the case may affect who wins or loses in perfecting the technology, which has also attracted other technology companies, automakers, start-ups and components manufacturers.
+
+In recent weeks, Uber has tried to minimize the fallout internally around its self-driving research arm. Mr. Levandowski voluntarily stepped down from reporting directly to Mr. Kalanick, and has recused himself from any decisions made on lidar technology, a crucial component in autonomous vehicles.
+
+That has not been enough. In a court ruling last week, United States District Court Judge William Alsup, of the Northern District of California, who is presiding over the case, barred Mr. Levandowski from any work on lidar and ordered Uber to produce a timeline of the events leading to Mr. Levandowski’s hiring, including all oral and written discussions about lidar technology. Judge Alsup also ordered Uber to do what it could to ensure the return to Waymo of any files that were thought to be stolen, including the possibility of terminating Mr. Levandowski’s employment at Uber.
+
+“If you comply with these requirements, your employment at Uber will continue on an at-will basis,” Ms. Yoo wrote. “We continue to believe that no Waymo trade secrets have ever been used in the development of our self-driving technology, and we remain confident that we will prove that fact in due course.”
+
+Uber and Waymo declined to comment on the letter from Uber. A lawyer representing Mr. Levandowski did not respond to a request for comment late Thursday evening.

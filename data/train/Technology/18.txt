@@ -1,12 +1,19 @@
-GameStop sold a used video game filled with meth
-When deciding to buy a used copy of a game, your focus is usually on the disc and if there are any visible scratches. It seems employees at GameStop are also completely focused on the disc as they keep missing bags of meth left in the case by previous owners.
+FCC votes to overturn net neutrality rules
 
-For the second time, a used game purchased at GameStop contained a bag of meth discovered by a child. The first incident occurred in September last year when an 11-year-old purchased a used game from a Louisiana GameStop with a "baggie of drugs" discovered inside. Police identified the substance in the bag as meth.
+The US Federal Communications Commission has voted to overturn rules that force ISPs to treat all data traffic as equal.
+Commissioners at the agency voted two-to-one to end a "net neutrality" order enacted in 2015.
+Ajit Pai, head of the FCC, said the rules demanding an open internet harmed jobs and discouraged investment.
+Many Americans and technology firms filed objections to the FCC's proposal prior to the vote.
+"This is the right way to go," said Mr Pai ahead of the vote on Thursday.
+In a statement, the FCC said it expected its proposed changes to "substantially benefit consumers and the marketplace". It added that, before the rules were changed in 2015, they helped to preserve a "flourishing free and open internet for almost 20 years".
 
-As reported by Kotaku, in this latest case another 11-year-old discovered a bag of drugs on Sunday, May 7 after purchasing a used copy of Grand Theft Auto V from the Capital West Tallahassee GameStop in Florida. The bag was hidden in between the pages of the manual and luckily his mother, Kayla McAllister, became aware of the bag before anything bad could happen. The police were called and the substance was also confirmed to be meth.
-
-GameStop insists all used games are checked before being sold, but clearly those checks are not good enough. There's very limited space within a game case and a bag would be easily spotted by someone flicking through the pages of a manual. The fact this has happened twice now suggests GameStop needs to review its used game checking process.
-
-GameStop has since contacted the McAllister family and offered to mail them out a replacement game, but the offer was refused. Kayla McAllister will not be using GameStop stores again. She may also want to consider her choice of game for an 11-year-old to play. GTA V is rated Mature 17+.
-
-As to why video games are turning up containing drugs, the obvious answer is game cases make for an easy method of hidden transportation. If stopped and searched, there's a lower chance of the bag being found inside the pages of a manual than inside a pocket. The carrier can also claim they are just out visiting a friend to play a game.
+Equal access
+The vote by the FCC commissioners is the first stage in the process of dismantling the net neutrality regulations.
+The agency is now inviting public comment on whether it should indeed dismantle the rules. Americans have until mid-August to share their views with the FCC.
+This call for comments is likely to attract a huge number of responses. Prior to the vote, more than 1 million statements supporting net neutrality were filed on the FCC site.
+Many people responded to a call from comedian and commentator John Oliver to make their feelings known.
+Separately, some protestors also used software bots to repeatedly file statements on the site.
+Many fear that once the equal access rules go, ISPs will start blocking and throttling some data while letting other packets travel on "fast lanes" because firms have paid more to reach customers quicker.
+US ISPs such as Comcast, Charter Communications and Altice NV have pledged in public statements to keep data flowing freely.
+Despite this public pledge Comcast, along with Verizon and AT&T, opposed the original 2015 rule change saying it dented their enthusiasm for improving US broadband.
+Facebook, and Google's parent company Alphabet as well as many other net firms have backed the open net rules saying equal access was important for all.

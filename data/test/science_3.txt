@@ -1,0 +1,15 @@
+Quantum tractor beam could tug atoms, molecules
+
+The wavelike properties of quantum matter could lead to a scaled-down version of Star Trek technology. A new kind of tractor beam could use a beam of particles to reel in atoms or molecules, physicists propose in the May 5 Physical Review Letters.
+
+Scientists have previously created tractor beams using light or sound waves, which can pull small particles a few millimeters or centimeters (SN: 11/15/14, p. 16). But “the idea of doing this with matter waves is really groovy,” says physicist David Grier of New York University, who was not involved with the research.
+
+Sound or light waves can pull small particles under carefully controlled conditions. For certain types of beams, waves can scatter forward off of a particle, pushing the particle back toward the source of the beam due to the law of conservation of momentum.
+
+“We have used a very similar reasoning here,” says study coauthor Andrey Novitsky, a physicist at the Technical University of Denmark in Kongens Lyngby. But rather than light or sound, “we have something more elusive” — namely, matter waves.
+
+In quantum mechanics, particles behave like waves, spread out so that they have no definite position. Quantum waves represent the probability that a particle will be found in a particular spot if its location is measured. Novitsky and colleagues performed theoretical calculations to show that such matter waves could produce a pulling effect similar to light or sound waves.
+
+Matter wave tractor beams could be made with beams of electrons, Novitsky says. Such beams could provide new ways of manipulating matter on small scales. Scientists might use these tractor beams to separate mixtures of atoms or ions, for example, reeling in one type but not another.
+
+“The idea is very reasonable,” says Philip Marston of Washington State University in Pullman. Although the results are still theoretical, “I think somebody will probably find some way to demonstrate this in the lab,” Marston says.

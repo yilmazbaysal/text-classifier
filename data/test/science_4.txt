@@ -1,0 +1,19 @@
+Hybrid protein offers malaria protection
+
+Dogged genetic detective work has led scientists to a hybrid red blood cell protein that offers some protection against malaria.
+
+Reporting online May 18 in Science, researchers describe a genetic variant that apparently is responsible for the fusion of two proteins that protrude from the membranes of red blood cells. In its hybrid form, the protein somehow makes it more difficult for the malaria parasite to invade the blood cells.
+
+Successful invasion by the parasite can cause flulike illness, and in severe cases, death. In 2015, 212 million cases of malaria occurred worldwide, according to the World Health Organization, and 429,000 people died, mostly young children.
+
+People carrying the protective genetic variant are 30 to 50 percent less likely to develop severe malaria than those without, the researchers report. The genetic change was found largely in people from Kenya, Malawi and Tanzania, suggesting that it occurred relatively recently in East Africa.
+
+Discovering any genetic changes that protect against malaria is of great interest, says hematologist and malaria specialist Dave Roberts of the University of Oxford, who was not involved with the study. Understanding such changes, he says, “may help us understand the pathological pathways by which the parasite causes so much disease.”
+
+Previous research had hinted that genetic changes to a particular stretch of DNA on chromosome 4 offered some protection against malaria. But the research team, an international collaboration that included researchers and clinicians from across Africa, had to do substantial legwork spanning 10 years to unmask the changes. Databases that gather the genetic instruction books, or genomes, of individuals are biased toward European populations, while African samples are underrepresented. And human genetic diversity is particularly high in sub-Saharan Africa, so genomes with rare genetic changes can be easily missed.
+
+To overcome these hurdles, the researchers analyzed the genomes of more than 12,000 people, sampling widely in Africa. They surveyed 765 individuals from 10 ethnic groups in Gambia, Burkina Faso, Cameroon and Tanzania, as well as more than 2,000 genomes from the 1000 Genomes Project, a public catalog of genetic data. The team also examined genomes of nearly 10,000 people from Gambia, Kenya and Malawi, about half of whom had been hospitalized with severe malaria.
+
+The team discovered that the stretch of DNA in question has undergone major changes; chunks of genes have been deleted, other chunks duplicated or even triplicated. One result stood out in the DNA of the people who were less at risk for malaria: Two genes that provide instructions for two proteins called glycophorin A and glycophorin B were snipped, fused together and duplicated. These proteins are known red blood cell proteins that the malaria parasite Plasmodium falciparum can use to gain access to the cells.
+
+This genetic mash-up seems to lead to a protein mash-up: The arm sticking inside the red blood cell is made up of protein A, while the arm sticking out of the cell is made up of protein B. This hybrid protein turns out to have been first described in 1984. Called the Dantu antigen, it’s found on red blood cells of only a small percentage of people outside of Africa and is part of a rare blood group called MNS.
